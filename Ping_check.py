@@ -1,3 +1,4 @@
+# install the speedtest module from your terminal using pip install Speedtest
 from speedtest import Speedtest
 st = Speedtest()
 print('Download :', st.download())
